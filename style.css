@@ -51,6 +51,6 @@ h1{
 @media (max-width: 600px) {
   #btn{
     position: relative;
-    left: 4rem;
+    right: 1rem;
   }
 }
