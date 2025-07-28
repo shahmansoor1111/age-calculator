@@ -48,3 +48,9 @@ h1{
   font-size: 18px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+@media (max-width: 600px) {
+  #btn{
+    position: relative;
+    left: 2rem;
+  }
+}
