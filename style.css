@@ -24,7 +24,7 @@ input[type="date"] {
 button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #3b82f6;
+  background-color: #beec4b;
   color: white;
   border: none;
   border-radius: 6px;
@@ -51,6 +51,6 @@ h1{
 @media (max-width: 600px) {
   #btn{
     position: relative;
-    left: 2rem;
+    left: 4rem;
   }
 }
