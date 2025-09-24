@@ -11,7 +11,7 @@ function calculateAge() {
   const now = new Date();
 
   if (dob > now) {
-    result.textContent = "Date of birth can't be in the future.";
+    result.textContent = "Date of birth can't be in the future..";
     return;
   }
 
